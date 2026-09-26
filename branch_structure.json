@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/message-content-length-limit",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/message-content-length-limit": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/message-content-length-limit",
+    "origin"
+  ]
+}
